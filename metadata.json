@@ -1,0 +1,6 @@
+{
+  "name": "MLearning – Plataforma Inteligente de Predicción de Ventas",
+  "description": "Plataforma analítica interactiva para análisis exploratorio de datos, regresión lineal simple y múltiple, diagnóstico estadístico, predicciones y simulación de escenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
